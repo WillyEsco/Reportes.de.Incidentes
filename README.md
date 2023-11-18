@@ -70,14 +70,12 @@ mostrando la solución generada y justificando las decisiones tomadas
 
 # **Diagrama de Clases** 
 <p align="center">
-  <img  src="./incidentes/assets/Clases.jpg" width="80%" height="80%" />
+  <img  src="./assets/clases.jpg" width="80%" height="80%" />
 </p>
 
 <br><br>
 
 # __Diagrama de Entidad Relación__ 
 <p align="center">
-  <img  src="./incidentes/assets/DER.jpg" width="80%" height="80%"  />
+  <img  src="./assets/DER.jpg" width="80%" height="80%"  />
 </p>
-
-
