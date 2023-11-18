@@ -70,7 +70,7 @@ mostrando la solución generada y justificando las decisiones tomadas
 
 # **Diagrama de Clases** 
 <p align="center">
-  <img  src="./incidentes/assets/clases.jpg" width="80%" height="80%" />
+  <img  src="./incidentes/assets/Clases.jpg" width="80%" height="80%" />
 </p>
 
 <br><br>
