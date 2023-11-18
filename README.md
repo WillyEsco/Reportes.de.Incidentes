@@ -1,5 +1,5 @@
 # __Reportes de Incidentes__  -  ___Comisión 9 / Grupo 1___
-##  ___ Entrega 1 ___ - Diagrama de Clases - Diagrama Entidad Relación - java maven 
+##  ___Entrega 1___ - Diagrama de Clases - Diagrama Entidad Relación - java maven 
 ## __Datos de la Presentación__
 
 #### Fecha Primer Entrega: ` 18 de noviembre del 2023  `
