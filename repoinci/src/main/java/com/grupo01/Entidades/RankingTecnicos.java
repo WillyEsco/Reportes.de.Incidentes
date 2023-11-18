@@ -1,7 +1,7 @@
 
-package Entidades;
+package com.grupo01.Entidades;
 
-public class RankingTecnicos implements Reporte{
+public class RankingTecnicos implements Reporte {
 
   private int idReporrte;
   private String tituloRporte;

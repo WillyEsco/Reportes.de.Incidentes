@@ -1,20 +1,20 @@
 
-package Entidades;
+package com.grupo01.Entidades;
 
 import java.util.List;
 
 
-public class Cliente {
+public class Cliente extends Persona implements MedioNotificacion{
     private int idCliente;
     private String razonSocial;
     private int cuit;
-    private List<Servicio> serviciosContratados;
+    private List<ServicioContratado> serviciosContratados;
     private String eMail;
 
     public Cliente() {
     }
 
-    public Cliente(int idCliente, String razonSocial, int cuit, List<Servicio> serviciosContratados, String eMail) {
+    public Cliente(int idCliente, String razonSocial, int cuit, List<ServicioContratado> serviciosContratados, String eMail) {
         this.idCliente = idCliente;
         this.razonSocial = razonSocial;
         this.cuit = cuit;
@@ -46,11 +46,11 @@ public class Cliente {
         this.cuit = cuit;
     }
 
-    public List<Servicio> getServiciosContratados() {
+    public List<ServicioContratado> getServiciosContratados() {
         return serviciosContratados;
     }
 
-    public void setServiciosContratados(List<Servicio> serviciosContratados) {
+    public void setServiciosContratados(List<ServicioContratado> serviciosContratados) {
         this.serviciosContratados = serviciosContratados;
     }
 

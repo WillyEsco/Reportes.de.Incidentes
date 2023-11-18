@@ -1,5 +1,5 @@
 
-package Entidades;
+package com.grupo01.Entidades;
 
 import java.util.List;
 

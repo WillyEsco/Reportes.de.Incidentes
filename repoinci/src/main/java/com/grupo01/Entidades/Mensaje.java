@@ -1,5 +1,5 @@
 
-package Entidades;
+package com.grupo01.Entidades;
 
 import java.time.LocalDate;
 
@@ -10,6 +10,9 @@ public class Mensaje {
     private LocalDate horaEnvio;
     private boolean recibido;
     private Cliente cliente;
+    private Persona destinatario;
+
+
     
     
 }
